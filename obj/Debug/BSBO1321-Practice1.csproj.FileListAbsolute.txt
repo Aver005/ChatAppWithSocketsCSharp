@@ -1,0 +1,8 @@
+C:\Users\avert\source\repos\BSBO1321-Practice1\bin\Debug\BSBO1321-Practice1.exe.config
+C:\Users\avert\source\repos\BSBO1321-Practice1\bin\Debug\BSBO1321-Practice1.exe
+C:\Users\avert\source\repos\BSBO1321-Practice1\bin\Debug\BSBO1321-Practice1.pdb
+C:\Users\avert\source\repos\BSBO1321-Practice1\obj\Debug\BSBO1321-Practice1.csproj.AssemblyReference.cache
+C:\Users\avert\source\repos\BSBO1321-Practice1\obj\Debug\BSBO1321-Practice1.csproj.SuggestedBindingRedirects.cache
+C:\Users\avert\source\repos\BSBO1321-Practice1\obj\Debug\BSBO1321-Practice1.csproj.CoreCompileInputs.cache
+C:\Users\avert\source\repos\BSBO1321-Practice1\obj\Debug\BSBO1321-Practice1.exe
+C:\Users\avert\source\repos\BSBO1321-Practice1\obj\Debug\BSBO1321-Practice1.pdb
